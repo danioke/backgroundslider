@@ -48,8 +48,8 @@
     font-family: 'BebasNeueRegular', 'Arial Narrow', Arial, sans-serif;
     font-size: 160px;
     padding: 0 30px;
-    line-height: 120px;
-    color: rgba(169,3,41, 0.8);
+    line-height: 180px;
+    color: #fff;
 }
 .cb-slideshow li:nth-child(1) span { background-image: url(https://1.bp.blogspot.com/-xgUdP9GmMyM/Xuzn6eIstGI/AAAAAAAAA0E/73B4YdyzEV0_P-tQnU0ij7djs7g0EfNywCLcBGAsYHQ/s1600/aurora_burst_blue_.jpg) }
 .cb-slideshow li:nth-child(2) span {
