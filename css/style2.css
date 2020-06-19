@@ -9,7 +9,7 @@
 }
 .cb-slideshow:after {
     content: '';
-    background: transparent url(../images/pattern.png) repeat top left;
+    background: transparent url(https://1.bp.blogspot.com/-QnIxKHG05DA/Xuz5oMJ4r_I/AAAAAAAAA0o/Qg-v4NiJVmQGcii07f2_-A-i3KFc_a5rACLcBGAsYHQ/s1600/pattern.png) repeat top left;
 }
 .cb-slideshow li span {
     width: 100%;
@@ -51,9 +51,9 @@
     line-height: 120px;
     color: rgba(169,3,41, 0.8);
 }
-.cb-slideshow li:nth-child(1) span { background-image: url(../images/6.jpg) }
+.cb-slideshow li:nth-child(1) span { background-image: url(https://1.bp.blogspot.com/-xgUdP9GmMyM/Xuzn6eIstGI/AAAAAAAAA0E/73B4YdyzEV0_P-tQnU0ij7djs7g0EfNywCLcBGAsYHQ/s1600/aurora_burst_blue_.jpg) }
 .cb-slideshow li:nth-child(2) span {
-    background-image: url(../images/5.jpg);
+    background-image: url(https://1.bp.blogspot.com/-lOl_9djUWp0/Xuzn6XZNMQI/AAAAAAAAA0A/QqRFr_nXtNsE3BDISST2oNhzLqmIK4sLgCLcBGAsYHQ/s1600/aurora_burst_green_.jpg);
     -webkit-animation-delay: 6s;
     -moz-animation-delay: 6s;
     -o-animation-delay: 6s;
@@ -61,7 +61,7 @@
     animation-delay: 6s;
 }
 .cb-slideshow li:nth-child(3) span {
-    background-image: url(../images/4.jpg);
+    background-image: url(https://1.bp.blogspot.com/-dwMxmLWg95U/Xuzn6idiy8I/AAAAAAAAA0I/8lOiJvHfH98-qNAxRtowDAU9_L8-4BhuQCLcBGAsYHQ/s1600/aurora_burst_blue_green_purple_colorful_.jpg);
     -webkit-animation-delay: 12s;
     -moz-animation-delay: 12s;
     -o-animation-delay: 12s;
@@ -69,7 +69,7 @@
     animation-delay: 12s;
 }
 .cb-slideshow li:nth-child(4) span {
-    background-image: url(../images/3.jpg);
+    background-image: url(https://1.bp.blogspot.com/-qz3jZ1BWDyU/Xuzn7TSodKI/AAAAAAAAA0M/tUUI7iJoLUA4VqetXol8KSLI3HcJm0iGACLcBGAsYHQ/s1600/aurora_burst_lime_green_.jpg);
     -webkit-animation-delay: 18s;
     -moz-animation-delay: 18s;
     -o-animation-delay: 18s;
@@ -77,7 +77,7 @@
     animation-delay: 18s;
 }
 .cb-slideshow li:nth-child(5) span {
-    background-image: url(../images/2.jpg);
+    background-image: url(https://1.bp.blogspot.com/-LvrdqmeosDo/Xuz6dIFh78I/AAAAAAAAA04/sHCoA3sBgQwDvI23lx9vuZ83jnpmcTN9gCLcBGAsYHQ/s1600/4.jpg);
     -webkit-animation-delay: 24s;
     -moz-animation-delay: 24s;
     -o-animation-delay: 24s;
@@ -85,7 +85,7 @@
     animation-delay: 24s;
 }
 .cb-slideshow li:nth-child(6) span {
-    background-image: url(../images/1.jpg);
+    background-image: url(https://1.bp.blogspot.com/-m_n9c8HOTLU/Xuzn7jY8hkI/AAAAAAAAA0Q/avhVVNzYkoMYt-cBWOqV6jdNv8QJ132vQCLcBGAsYHQ/s1600/aurora_burst_purple_.jpg);
     -webkit-animation-delay: 30s;
     -moz-animation-delay: 30s;
     -o-animation-delay: 30s;
