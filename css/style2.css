@@ -9,7 +9,6 @@
 }
 .cb-slideshow:after {
     content: '';
-    background: transparent url(https://1.bp.blogspot.com/-QnIxKHG05DA/Xuz5oMJ4r_I/AAAAAAAAA0o/Qg-v4NiJVmQGcii07f2_-A-i3KFc_a5rACLcBGAsYHQ/s1600/pattern.png) repeat top left;
 }
 .cb-slideshow li span {
     width: 100%;
